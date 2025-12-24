@@ -1,0 +1,5 @@
+{
+  "name": "Vindicate",
+  "description": "A mobile-friendly medical education web application to help learners practice diagnostic reasoning using the VINDICATE framework, featuring an AI assistant and an AI-powered scenario generator.",
+  "requestFramePermissions": []
+}
